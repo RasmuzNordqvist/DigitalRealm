@@ -1,0 +1,90 @@
+body {
+    background-color: #5096D0;
+    font-family: 'Contrail One';
+
+    font-weight: 700;
+    color: white;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+.content {
+    padding: 20px 100px 50px 100px;
+
+}
+
+
+.main {
+    padding-top: 200px;
+}
+
+.navbar {
+    font-size: 2rem;
+    border-top: 5px solid #D9D9D9; border-bottom: 5px solid #D9D9D9;
+}
+.navbar-custom {
+    background-color: #5096D0;
+}
+
+.navbar-brand{
+    font-size: 2rem;
+    color: white;   
+}
+
+.container-nav {
+    padding: 0;;
+}
+
+.nav-link {
+    color: white;   
+}
+
+.row {
+    padding: 0;
+    margin: 0;
+}
+
+.col-sm-6 {
+    padding: 0;
+}
+
+.main-container {
+    padding: 0px;
+    margin: 0;
+}
+
+.header-row {
+    height: 300px;
+}
+
+.main-header {
+    padding: 90px 0px 0px 0px;
+    font-size: 4rem;
+    font-weight: 900;
+    font-family: 'Contrail One',;
+    
+
+}
+
+.main-img {
+    padding-top: 50px;
+    float: right;
+}
+
+.main-paragraph {
+ padding-top: 50px;
+ opacity: 0.6;
+ font-size: 1.1rem;
+}
+
+.footer {
+    height: 50px;
+    width: 100%;
+    background-color: #D9D9D9;
+    margin-top: auto;
+}
+
+.footer-text {
+    padding-bottom: 0px !important; 
+}
